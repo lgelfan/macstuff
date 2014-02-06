@@ -1,0 +1,3 @@
+PHP API	20100412
+PHP Extension	20100525
+Zend Extension	220100525
